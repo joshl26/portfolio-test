@@ -1,0 +1,20 @@
+{
+  "name": "portfolio_site_node_test",
+  "version": "1.0.0",
+  "description": "PORTFOLIO SITE NODE JS",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshl26/portfolio_site_node_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshl26/portfolio_site_node_test/issues"
+  },
+  "homepage": "https://github.com/joshl26/portfolio_site_node_test#readme"
+}
